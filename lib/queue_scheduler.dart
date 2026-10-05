@@ -1,4 +1,4 @@
-library queue_scheduler;
+library;
 
 export 'src/clock.dart';
 export 'src/download_queue.dart';
